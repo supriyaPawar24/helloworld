@@ -3,3 +3,5 @@
 3. to package use : mvn package
 
 4.checking the git changes
+
+5.new project created
